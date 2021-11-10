@@ -8,7 +8,7 @@ body{
 
 .section1{
     background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(0, 0, 255, 0.3)),
-    url("/img/honeycomb.jpg");
+    url("img/honeycomb.jpg");
     background-position: 50% 50%;
     transition: background-position 25s ease;
     padding-top: 50px;
@@ -25,7 +25,7 @@ body{
 }
 
 .section3{
-    background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(255, 94, 0, 0.4)), url("/img/high_res2.jpg");
+    background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(255, 94, 0, 0.4)), url("img/high_res2.jpg");
     background-position: 50% 50%;
     transition: background-position 25s ease;
     margin-top:3px;
@@ -39,7 +39,7 @@ body{
 }
 
 .section4{
-    background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(0, 255, 13, 0.493)), url("/img/high_res3.jpg");
+    background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(0, 255, 13, 0.493)), url("img/high_res3.jpg");
     background-position: 50% 50%;
     transition: background-position 25s ease;
     margin-top:3px;
@@ -52,7 +52,7 @@ body{
 }
 
 .section5{
-    background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(255, 0, 255, 0.521)), url("/img/high_res4.jpg");
+    background-image: radial-gradient(rgba(255, 255, 255, 0.7),rgba(255, 0, 255, 0.521)), url("img/high_res4.jpg");
     background-position: 50% 50%;
     transition: background-position 25s ease;
     margin-top:3px;

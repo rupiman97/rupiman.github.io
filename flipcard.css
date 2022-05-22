@@ -2,7 +2,6 @@
     background-color: transparent;
     width: 400px;
     height: 500px;
-    border: 1px solid black;
     perspective: 1000px; /* Remove this if you don't want the 3D effect */
     margin-bottom: 30px;
   }
@@ -45,6 +44,7 @@
   .flip-card-front {
     background-color: #bbb;
     color: black;
+    border: 2px solid black;
   }
   
   /* Style the back side */
@@ -52,4 +52,5 @@
     background-color: dodgerblue;
     color: white;
     transform: rotateY(180deg);
+    border: 2px solid black;
   }
